@@ -12,7 +12,7 @@ A proposta era desenvolver uma plataforma web que disponibilize informações so
 
 <br>
 
-## Vídeo Completo do Projeto
+## 📽️ Vídeo Completo do Projeto
 
 <h4><a href="https://youtu.be/NQjO5y1g220">🔗Link para o vídeo no Youtube.</a></h4>
 
@@ -29,11 +29,11 @@ Por fim, fiquei responsável por implementar a participação em comissões e os
 <br> 
 
 #### Hard Skills
-HTML5 - Realizo com autonomia. <br>
-CSS3 - Realizo com autonomia. <br>
-MySQL - Realizo com autonomia. <br>
-Python - Realizo com auxílio. <br>
-Figma - Realizo com autonomia.
+![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 <br>
 
