@@ -1,11 +1,11 @@
 # Projetos API
 
-## 📋 API-FATEC | 2024-2
+## 📋 API-FATEC | 2024-2 (1º Semestre)
 
 > **Status do Projeto: Concluído**
 
 O projeto foi proposto por um cliente interno, Professor Fernando Masanori. <br>
-A proposta era desenvolver uma plataforma web que disponibilize informações sobre o desempenho dos vereadores da cidade de São José dos Campos durante o atual mandato. O objetivo é oferecer aos eleitores dados claros e acessíveis que ajudem a tomar decisões informadas nas eleições municipais. A plataforma permitirá que os cidadãos visualizem a atuação dos vereadores.
+A proposta era desenvolver uma plataforma web que disponibiliza informações sobre o desempenho dos vereadores da cidade de São José dos Campos durante o atual mandato. O objetivo é oferecer aos eleitores dados claros e acessíveis que ajudem a tomar decisões informadas nas eleições municipais. A plataforma permitirá que os cidadãos visualizem a atuação dos vereadores.
  
 
 <h4><a href="https://github.com/Draco-Imperium/API_FATEC1">🔗Link para visualizar Repositório do Projeto.</a></h4>
