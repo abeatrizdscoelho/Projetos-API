@@ -24,7 +24,7 @@ Minha principal contribuição no projeto foi, inicialmente, na criação dos Wi
 <br>
 Além disso, assumi a responsabilidade pela criação do banco de dados, a fim de utilizá-lo para armazenar os comentários e feedbacks dos eleitores. Para isso utilizei o MySQL, e também o brModelo para a modelagem do banco de dados. <br>
 <br> 
-Por fim, fiquei responsável por implementar a participação em comissões e os posicionamentos em votações de cada vereador, para isso utilizei o Python.
+Por fim, fiquei responsável por implementar a participação em comissões e os posicionamentos em votações de cada vereador, para isso utilizei Python.
 
 <br> 
 
